@@ -3,13 +3,14 @@ body {
      color: #434455;
      background-color: #FFF ;
 }
+
 a {
     text-decoration: none;
 }
+
 ul, ol {
    list-style: none; 
 }
-.nav {}
 
 .logo {
     color: #4D5AE5;
@@ -84,11 +85,6 @@ ul, ol {
 
 /*=========== our service===============*/
 
-.service {}
-
-.service-list {}
-
-.service-item {}
 
 .service-subtitle {
     color: #2E2F42;
@@ -124,13 +120,6 @@ ul, ol {
 
 }
 
-.team-title-text {}
-
-.team-list {}
-
-.team-item {}
-
-.team-img {}
 
 .team-subtitle {
 color:  #2E2F42;
@@ -165,13 +154,6 @@ color:  #2E2F42;
         text-transform: capitalize;
 }
 
-.portfolio-title-text {}
-
-.portfolio-list {}
-
-.portfolio-item {}
-
-.portfolio-img {}
 
 .portfolio-subtitle {
     color: #2E2F42;
